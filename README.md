@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Search Photo
+
+## Search-photo is a photo searching app. Main propose is to get auto infinite scroll. Also, you can search the photos by name.
+
+## The Drink Detail feature is you can a search a drink. You can see the pictures, and also you can get information. I used ReactJS to build this app.
+
+## Table of Contents:
+- HTML 5
+- CSS
+- JavaScript
+- Reactjs
+
+
+## Author
+Manish khadgi Shahi
+
+[My Github Repo](https://github.com/manishwild)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
